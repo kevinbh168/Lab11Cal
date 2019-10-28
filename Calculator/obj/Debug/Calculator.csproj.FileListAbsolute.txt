@@ -1,0 +1,16 @@
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\bin\Debug\Calculator.dll
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\obj\Debug\Calculator.MainPage.xaml.g.cs
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\kevin\Desktop\Xamarin_Forms___Basic_Calculator\Calculator\obj\Debug\Calculator.pdb
